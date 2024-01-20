@@ -3,6 +3,7 @@ Dial spinner Animation
 # Dial Spinner Keyframe Animation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Example](./images/Screenshot%202024-01-20%20at%2016.44.33.png)
 
 ## Description
 
